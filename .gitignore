@@ -1,0 +1,8 @@
+/target/
+/Logs/
+/test-output/
+/Resources/
+/Reports/
+.DS_Store
+/.idea/
+
